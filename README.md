@@ -94,7 +94,7 @@ Our code of conduct can be found here: https://github.com/OpenDataology/OpenData
 Confluence wiki
 
 ### Project website - Do you have a web site? If no, did you reserve a and would like you to have a website created?
-We have reserved a domain name (https://github.com/OpenDataology/OpenDataology/blob/main/CODE_OF_CONDUCT.md). However, we haven't created a website yet. We will create the website in the near future.
+No, we have researved a domain name (OpenDataology.com). However, we haven't created a website yet. We will create the website in the near future.
 
 ### Project governance - Do you have a working governance model for project? Please provide URL to where it is documented, typically GOVERNANCE.md.
 Yes. Our governance model can be found here: https://github.com/OpenDataology/OpenDataology/blob/main/GOVERNANCE.md
