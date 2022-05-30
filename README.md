@@ -52,12 +52,27 @@ There are no external dependencies in our project.
 * Gopi Krishnan Rajbahadur, gopikrishnanrajbahadur@gmail.com, Huawei Canada, 12 months 
 * Clement Li, lizi4@huawei.com, Huawei China, 12 months 
 * Zicheng Qu, quzicheng315@gmail.com, Huawei China, 5 months 
-* Boyuan Chen, chenfsd@gmail.com, Huawei Canada, 6 months  
-* Dora HU, hujing@grandall.com.cn, Grandall China, 2 months
-* Zhipeng Huang, zhipengh512@gmail.com, Huawei China, 8 months 
 * Daniel M German, dmg@uvic.ca, University of Victoria Canada, 12 months
-* Dayi Lin,heylindayi@gmail.com, Huawei Canada, 8 months
 * Jack jiang,zmjiang@gmail.com, York University Canada, 12 months
+* Dora HU, hujing@grandall.com.cn, Grandall China, 2 months
+* Zhonghua Zhu, 625945373@qq.com, Meituan China, 2 months
+* Song Liu, claimonx@gmail.com, Fuzhou University China, 6 months
+* Zhengcai You, youzhengcai@gmail.com, Fuzhou University China, 6 months
+
+### Initial contributors (name, email, organization) and how long have they been working on project?
+
+* Gopi Krishnan Rajbahadur, gopikrishnanrajbahadur@gmail.com, Huawei Canada, 12 months 
+* Clement Li, lizi4@huawei.com, Huawei China, 12 months 
+* Zicheng Qu, quzicheng315@gmail.com, Huawei China, 5 months 
+* Dora HU, hujing@grandall.com.cn, Grandall China, 2 months
+* Daniel M German, dmg@uvic.ca, University of Victoria Canada, 12 months
+* Jack jiang,zmjiang@gmail.com, York University Canada, 12 months
+* Zhonghua Zhu, 625945373@qq.com, Meituan China, 2 months
+* Song Liu, claimonx@gmail.com, Fuzhou University China, 6 months
+* Zhengcai You, youzhengcai@gmail.com, Fuzhou University China, 6 months
+* Boyuan Chen, chenfsd@gmail.com, Huawei Canada, 6 months 
+* Zhipeng Huang, zhipengh512@gmail.com, Huawei China, 8 months 
+* Dayi Lin,heylindayi@gmail.com, Huawei Canada, 8 months
 
 ### Have the project defined the roles of contributor, committer, maintainer, etc.? Please document it in MAINTAINERS.md.
 * Our roles of contributers, committers and maintainers have been defined in our governance structure which can be found at: https://github.com/OpenDataology/OpenDataology/blob/main/GOVERNANCE.md
