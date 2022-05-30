@@ -91,7 +91,7 @@ Our code of conduct can be found here: https://github.com/OpenDataology/OpenData
 
 
 ### Do you have any specific infrastructure requests needed as part of the project in the LF AI?
-No
+Confluence wiki
 
 ### Project website - Do you have a web site? If no, did you reserve a and would like you to have a website created?
 We have reserved a domain name (https://github.com/OpenDataology/OpenDataology/blob/main/CODE_OF_CONDUCT.md). However, we haven't created a website yet. We will create the website in the near future.
