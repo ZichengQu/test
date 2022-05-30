@@ -4,7 +4,7 @@
 OpenDataology
 ### Requested project maturity:
 Sandbox 
-### Project description [what it does, why it is valuable, origin and history, ongoing development]:
+### Project description:
 OpenDataology is an open source dataset license compliance analysis project. Our project enables users of publicly available datasets and users who curate a dataset from multiple data sources (particularly for use as a part of machine learning models) identify the potential license compliance risks. Our project is primarily comprised of three key components. 
 * A dataset license compliance analysis [workflow](https://github.com/OpenDataology/dataset-license-metadata/blob/main/Docs%20for%20schema%20and%20process%20explanation.md) that ascertains the final allowed rights and the required obligations associated with using a publicly avialable dataset or a dataset that is curated from multiple data sources for any purpose.
 * A growing database and a [web portal](https://github.com/OpenDataology/portal-frontend) that documents the final rights and obligations (after the license compliance analysis is conducted) associated with the datasets and the data sources analyzed in our project. The database also documents the metadata collected and used to conduct the compliance workflow
