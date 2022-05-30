@@ -101,7 +101,7 @@ https://github.com/OpenDataology/OpenDataology
 Yes. Our governance model can be found here: https://github.com/OpenDataology/OpenDataology/blob/main/GOVERNANCE.md
 
 ### • Social media accounts - Do you have any Twitter/LinkedIn/Facebook/etc. project accounts? Please provide pointers.
-Currently we are not on social media, but we are keen on opening a twitter account soon.
+Twitter: @OpenDataology
 
 ### Existing sponsorship (e.g., whether any organization has provided funding or other support to date, and a description of that support), if any.
 The project has not received any external funding.
