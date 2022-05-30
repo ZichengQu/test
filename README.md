@@ -31,10 +31,11 @@ MIT License, https://opensource.org/licenses/MIT
 The URL to location of the source code is (github):
 https://github.com/OpenDataology/OpenDataology
 
-### Please list tools in use by the project:
-Our project currently does not use any tools as the primary focus of our project is to provide a workflow that enables users of publicly available datasets to conduct license compliance. 
+### Does the project sits in its own GH organization?
+Yes - https://github.com/OpenDataology  
+*Do you have the GH DCO app active in the repos?  
+Yes  
 
-To ddevelop our web portal and the data license generator (which showcases our results and is a part of our project) uses tools X,Y, Z
 ### Issue tracker (GitHub, JIRA, etc) - Please confirm tools in use.
 We use the GitHub Issue tracker. Our issue repo can be found at: https://github.com/OpenDataology/OpenDataology/issues
 
