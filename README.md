@@ -84,7 +84,7 @@ We have 8 contributors to the project. Our contributers come from Huawei Canada,
 
 
 ### Does the project have a release methodology? Please document it in RELEASES.md.
-Yes, our release methodology can be found here: [place holder]
+No
 
 ### Does the project have a code of conduct? If yes, please share the URL. If please created CODE_OF_CONDUCT.md and point to https://lfprojects.org/policies/code-of-conduct/. You can use conduct@lfai.foundation as email for contact on this topic.
 Our code of conduct can be found here: https://github.com/OpenDataology/OpenDataology/blob/main/CODE_OF_CONDUCT.md
