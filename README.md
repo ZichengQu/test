@@ -1,4 +1,4 @@
-# OpenLineage Project Proposal
+# OpenDataology Project Proposal
 
 ### Name of proposed project:
 OpenDataology
